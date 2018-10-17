@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: 1c48922996731704ab13b1ef6fc1e1e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Robot_01
+    100004: Robot_01_Head
+    100006: Robot_01_LCalf
+    100008: Robot_01_LCollarbone
+    100010: Robot_01_LDigit11
+    100012: Robot_01_LDigit11 1
+    100014: Robot_01_LDigit12
+    100016: Robot_01_LDigit13
+    100018: Robot_01_LDigit21
+    100020: Robot_01_LDigit22
+    100022: Robot_01_LDigit23
+    100024: Robot_01_LDigit31
+    100026: Robot_01_LDigit32
+    100028: Robot_01_LDigit33
+    100030: Robot_01_LDigit41
+    100032: Robot_01_LDigit42
+    100034: Robot_01_LDigit43
+    100036: Robot_01_LDigit51
+    100038: Robot_01_LDigit52
+    100040: Robot_01_LDigit53
+    100042: Robot_01_LFoot
+    100044: Robot_01_LForearm
+    100046: Robot_01_LPalm
+    100048: Robot_01_LPlatform
+    100050: Robot_01_LThigh
+    100052: Robot_01_LUpperarm
+    100054: Robot_01_Neck
+    100056: Robot_01_Pelvis
+    100058: Robot_01_RCalf
+    100060: Robot_01_RCollarbone
+    100062: Robot_01_RDigit11
+    100064: Robot_01_RDigit11 1
+    100066: Robot_01_RDigit12
+    100068: Robot_01_RDigit13
+    100070: Robot_01_RDigit21
+    100072: Robot_01_RDigit22
+    100074: Robot_01_RDigit23
+    100076: Robot_01_RDigit31
+    100078: Robot_01_RDigit32
+    100080: Robot_01_RDigit33
+    100082: Robot_01_RDigit41
+    100084: Robot_01_RDigit42
+    100086: Robot_01_RDigit43
+    100088: Robot_01_RDigit51
+    100090: Robot_01_RDigit52
+    100092: Robot_01_RDigit53
+    100094: Robot_01_RFoot
+    100096: Robot_01_RForearm
+    100098: Robot_01_Ribcage
+    100100: Robot_01_RPalm
+    100102: Robot_01_RPlatform
+    100104: Robot_01_RThigh
+    100106: Robot_01_RUpperarm
+    100108: Robot_01_Spine1
+    100110: Robot_01_Spine2
+    100112: Robot_01_Spine3
+    100114: Robot_01_Transform
+    400000: //RootNode
+    400002: Robot_01
+    400004: Robot_01_Head
+    400006: Robot_01_LCalf
+    400008: Robot_01_LCollarbone
+    400010: Robot_01_LDigit11
+    400012: Robot_01_LDigit11 1
+    400014: Robot_01_LDigit12
+    400016: Robot_01_LDigit13
+    400018: Robot_01_LDigit21
+    400020: Robot_01_LDigit22
+    400022: Robot_01_LDigit23
+    400024: Robot_01_LDigit31
+    400026: Robot_01_LDigit32
+    400028: Robot_01_LDigit33
+    400030: Robot_01_LDigit41
+    400032: Robot_01_LDigit42
+    400034: Robot_01_LDigit43
+    400036: Robot_01_LDigit51
+    400038: Robot_01_LDigit52
+    400040: Robot_01_LDigit53
+    400042: Robot_01_LFoot
+    400044: Robot_01_LForearm
+    400046: Robot_01_LPalm
+    400048: Robot_01_LPlatform
+    400050: Robot_01_LThigh
+    400052: Robot_01_LUpperarm
+    400054: Robot_01_Neck
+    400056: Robot_01_Pelvis
+    400058: Robot_01_RCalf
+    400060: Robot_01_RCollarbone
+    400062: Robot_01_RDigit11
+    400064: Robot_01_RDigit11 1
+    400066: Robot_01_RDigit12
+    400068: Robot_01_RDigit13
+    400070: Robot_01_RDigit21
+    400072: Robot_01_RDigit22
+    400074: Robot_01_RDigit23
+    400076: Robot_01_RDigit31
+    400078: Robot_01_RDigit32
+    400080: Robot_01_RDigit33
+    400082: Robot_01_RDigit41
+    400084: Robot_01_RDigit42
+    400086: Robot_01_RDigit43
+    400088: Robot_01_RDigit51
+    400090: Robot_01_RDigit52
+    400092: Robot_01_RDigit53
+    400094: Robot_01_RFoot
+    400096: Robot_01_RForearm
+    400098: Robot_01_Ribcage
+    400100: Robot_01_RPalm
+    400102: Robot_01_RPlatform
+    400104: Robot_01_RThigh
+    400106: Robot_01_RUpperarm
+    400108: Robot_01_Spine1
+    400110: Robot_01_Spine2
+    400112: Robot_01_Spine3
+    400114: Robot_01_Transform
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #27'
+    2100006: No Name
+    2300000: Robot_01_Transform
+    3300000: Robot_01_Transform
+    4300000: Robot_01
+    4300002: Robot_01_Transform
+    7400000: 
+    9500000: //RootNode
+    13700000: Robot_01
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Robot_01_Pelvis' has translation animation
+      that will be discarded.\n\t'Robot_01_RFoot' has translation animation that will
+      be discarded.\n\t'Robot_01_RDigit11' has translation animation that will be
+      discarded.\n\t'Robot_01_Ribcage' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Robot_01_Transform
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit11 1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit12
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit13
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_LDigit53
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit11 1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit12
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit13
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_RDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Robot_01_Spine3
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: IdleCorregido(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robot_01
+      parentName: IdleCorregido(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robot_01_LPlatform
+      parentName: IdleCorregido(Clone)
+      position: {x: -0.11218827, y: 0, z: -0.004281462}
+      rotation: {x: 0.5000001, y: -0.4999999, z: -0.4999999, w: 0.5000001}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Robot_01_RPlatform
+      parentName: IdleCorregido(Clone)
+      position: {x: 0.11284404, y: 0, z: -0.00011357107}
+      rotation: {x: 0.5000001, y: -0.4999999, z: -0.4999999, w: 0.5000001}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Robot_01_Transform
+      parentName: IdleCorregido(Clone)
+      position: {x: -0.00019770912, y: 0, z: -0.0019469465}
+      rotation: {x: -0.500089, y: 0.5001406, z: 0.49985936, w: -0.49991098}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: Robot_01_Pelvis
+      parentName: Robot_01_Transform
+      position: {x: -0.5751279, y: -0.026105586, z: -0.0000000275351}
+      rotation: {x: 0.00022953749, y: -0.0000003874302, z: -0.0016929507, w: -0.99999857}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: Robot_01_Spine1
+      parentName: Robot_01_Pelvis
+      position: {x: -0.02957378, y: -0.028062655, z: -5.2042315e-10}
+      rotation: {x: 0.00000035762787, y: 0.000000029802322, z: 0.13441366, w: 0.9909254}
+      scale: {x: 1.0000018, y: 1.0000015, z: 1.0000005}
+    - name: Robot_01_Spine2
+      parentName: Robot_01_Spine1
+      position: {x: -0.11263369, y: 0, z: 2.3655593e-11}
+      rotation: {x: 0.00000024378946, y: 0.000000009649145, z: -0.048400477, w: 0.998828}
+      scale: {x: 1.0000006, y: 1.0000017, z: 1.000001}
+    - name: Robot_01_Spine3
+      parentName: Robot_01_Spine2
+      position: {x: -0.1064295, y: 0.000000024223327, z: 1.18277966e-11}
+      rotation: {x: -0.00000065780335, y: -0.0000002731888, z: -0.35230815, w: 0.9358841}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000002}
+    - name: Robot_01_Ribcage
+      parentName: Robot_01_Spine3
+      position: {x: -0.117567144, y: 0.000000048446665, z: 4.7311183e-11}
+      rotation: {x: -0, y: 0.00000013411045, z: 0.27925596, w: 0.96021676}
+      scale: {x: 0.99999785, y: 0.9999979, z: 0.9999989}
+    - name: Robot_01_Neck
+      parentName: Robot_01_Ribcage
+      position: {x: -0.00052225497, y: -0.005925919, z: -0.0000000038203782}
+      rotation: {x: -0.000000059604638, y: -0.000000029802319, z: 0.025402244, w: 0.9996773}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000008}
+    - name: Robot_01_Head
+      parentName: Robot_01_Neck
+      position: {x: -0.05782554, y: 0.000000048446665, z: 5.913897e-11}
+      rotation: {x: 0.00000004470348, y: 0.000000029802319, z: -0.02540223, w: 0.9996773}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1}
+    - name: Robot_01_LCollarbone
+      parentName: Robot_01_Ribcage
+      position: {x: 0.011412482, y: 0.066735044, z: 0.019798782}
+      rotation: {x: 0.0047197468, y: 0.77950317, z: 0.15248112, w: 0.6075377}
+      scale: {x: 0.9999996, y: 0.99999934, z: 0.99999964}
+    - name: Robot_01_LUpperarm
+      parentName: Robot_01_LCollarbone
+      position: {x: -0.1740572, y: -0.0000000121116654, z: -0.0000000968933}
+      rotation: {x: 0.097144105, y: -0.10953687, z: -0.11125208, w: 0.98294854}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000008}
+    - name: Robot_01_LForearm
+      parentName: Robot_01_LUpperarm
+      position: {x: -0.18808846, y: -0.000000018167494, z: 0.000000048446665}
+      rotation: {x: 0.1794946, y: 0.02184528, z: -0.024156507, w: 0.98321974}
+      scale: {x: 0.9999995, y: 0.9999991, z: 1.0000002}
+    - name: Robot_01_LPalm
+      parentName: Robot_01_LForearm
+      position: {x: -0.1929496, y: 0, z: 0}
+      rotation: {x: -0.8052795, y: 0.04593137, z: 0.047508605, w: 0.5892014}
+      scale: {x: 0.9999982, y: 1.0000043, z: 1.0000008}
+    - name: Robot_01_LDigit11 1
+      parentName: Robot_01_LPalm
+      position: {x: -0.024500249, y: 0.000000024223327, z: 0.038743228}
+      rotation: {x: 0.18350464, y: 0.4048796, z: -0.014913694, w: 0.8956429}
+      scale: {x: 0.99999833, y: 1.000001, z: 1.0000021}
+    - name: Robot_01_LDigit12
+      parentName: Robot_01_LDigit11 1
+      position: {x: -0.03519231, y: 0.000000024223327, z: 0.000000048446665}
+      rotation: {x: 0.008297646, y: 0.036740754, z: -0.0002855433, w: 0.9992904}
+      scale: {x: 0.99999934, y: 0.9999993, z: 1.0000007}
+    - name: Robot_01_LDigit13
+      parentName: Robot_01_LDigit12
+      position: {x: -0.021574287, y: 0.000000024223327, z: 0.00000014533997}
+      rotation: {x: -0.002345877, y: 0.011006514, z: -0.04053987, w: 0.9991146}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000004}
+    - name: Robot_01_LDigit31
+      parentName: Robot_01_LPalm
+      position: {x: -0.09374695, y: 0.001210488, z: 0.00726821}
+      rotation: {x: -0.003323969, y: 0.018969808, z: 0.07026871, w: 0.9973422}
+      scale: {x: 0.99999946, y: 1.0000008, z: 0.9999999}
+    - name: Robot_01_LDigit32
+      parentName: Robot_01_LDigit31
+      position: {x: -0.018902576, y: -0.000000036334978, z: -0.0000000121116654}
+      rotation: {x: 0.0045741876, y: -0.018258015, z: 0.015014705, w: 0.9997101}
+      scale: {x: 1.0000015, y: 0.99999934, z: 1}
+    - name: Robot_01_LDigit33
+      parentName: Robot_01_LDigit32
+      position: {x: -0.0249727, y: -0.000000072669984, z: 0}
+      rotation: {x: 0.0011314685, y: 0.021116234, z: 0.094346456, w: 0.9953149}
+      scale: {x: 1.0000024, y: 0.9999989, z: 1}
+    - name: Robot_01_LDigit41
+      parentName: Robot_01_LPalm
+      position: {x: -0.088988975, y: -0.0022548526, z: -0.021997422}
+      rotation: {x: -0.11336311, y: -0.020579476, z: 0.04406303, w: 0.9923627}
+      scale: {x: 0.99999946, y: 1.0000012, z: 0.9999994}
+    - name: Robot_01_LDigit42
+      parentName: Robot_01_LDigit41
+      position: {x: -0.016426953, y: 0, z: -0.00000003027916}
+      rotation: {x: 0.012651485, y: 0.0073683695, z: 0.03597973, w: 0.99924535}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000004}
+    - name: Robot_01_LDigit43
+      parentName: Robot_01_LDigit42
+      position: {x: -0.025867462, y: -0.000000048446665, z: -0.000000036334978}
+      rotation: {x: -0.020689886, y: -0.025276108, z: 0.084340654, w: 0.99590147}
+      scale: {x: 0.9999977, y: 1.0000011, z: 0.99999964}
+    - name: Robot_01_LDigit51
+      parentName: Robot_01_LPalm
+      position: {x: -0.07054131, y: -0.017130736, z: -0.050243333}
+      rotation: {x: -0.09228526, y: -0.00893276, z: 0.052460738, w: 0.9943096}
+      scale: {x: 0.9999986, y: 1.0000011, z: 1.0000002}
+    - name: Robot_01_LDigit52
+      parentName: Robot_01_LDigit51
+      position: {x: -0.021823715, y: 0, z: -0.000000048446665}
+      rotation: {x: 0.00040432252, y: -0.02694492, z: 0.021050826, w: 0.99941516}
+      scale: {x: 1.000002, y: 1.0000001, z: 0.9999997}
+    - name: Robot_01_LDigit53
+      parentName: Robot_01_LDigit52
+      position: {x: -0.025900254, y: -0.000000072669984, z: -0.00000006055832}
+      rotation: {x: -0.019792678, y: 0.04830477, z: 0.087590724, w: 0.9947879}
+      scale: {x: 0.99999845, y: 1.0000019, z: 0.99999946}
+    - name: Robot_01_LDigit21
+      parentName: Robot_01_LPalm
+      position: {x: -0.08102765, y: -0.002890835, z: 0.037747346}
+      rotation: {x: 0.124498636, y: 0.10105868, z: 0.030972302, w: 0.9865738}
+      scale: {x: 0.9999989, y: 0.9999998, z: 1.0000006}
+    - name: Robot_01_LDigit22
+      parentName: Robot_01_LDigit21
+      position: {x: -0.017269198, y: -0.000000048446665, z: 0.000000048446665}
+      rotation: {x: 0.010217883, y: 0.009203971, z: 0.038066994, w: 0.99918056}
+      scale: {x: 1.0000015, y: 0.9999989, z: 0.9999998}
+    - name: Robot_01_LDigit23
+      parentName: Robot_01_LDigit22
+      position: {x: -0.025260739, y: -0.000000036334978, z: 0.000000072669984}
+      rotation: {x: 0.004732009, y: -0.0041017258, z: 0.07566041, w: 0.99711394}
+      scale: {x: 0.9999972, y: 1.0000002, z: 0.9999998}
+    - name: Robot_01_RCollarbone
+      parentName: Robot_01_Ribcage
+      position: {x: 0.011412482, y: 0.066735044, z: -0.019798782}
+      rotation: {x: 0.004719538, y: 0.77950317, z: -0.15248087, w: -0.60753775}
+      scale: {x: 1.0000001, y: 0.99999917, z: 0.9999999}
+    - name: Robot_01_RUpperarm
+      parentName: Robot_01_RCollarbone
+      position: {x: -0.1740572, y: 0.0000000121116654, z: 0}
+      rotation: {x: -0.0971445, y: 0.10953642, z: -0.11125159, w: 0.9829485}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000007}
+    - name: Robot_01_RForearm
+      parentName: Robot_01_RUpperarm
+      position: {x: -0.18808858, y: 0, z: 0}
+      rotation: {x: -0.1794949, y: -0.021845127, z: -0.024156442, w: 0.9832197}
+      scale: {x: 1.0000011, y: 0.9999995, z: 0.99999934}
+    - name: Robot_01_RPalm
+      parentName: Robot_01_RForearm
+      position: {x: -0.1929497, y: -0.000000018167494, z: 0}
+      rotation: {x: 0.80526984, y: -0.045933075, z: 0.04750845, w: 0.5892145}
+      scale: {x: 1.0000037, y: 0.999997, z: 1.000001}
+    - name: Robot_01_RDigit11 1
+      parentName: Robot_01_RPalm
+      position: {x: -0.024500445, y: -0.000000024223327, z: -0.038742952}
+      rotation: {x: -0.1834956, y: -0.40488052, z: -0.014918585, w: 0.8956442}
+      scale: {x: 1.000003, y: 0.9999997, z: 0.9999977}
+    - name: Robot_01_RDigit12
+      parentName: Robot_01_RDigit11 1
+      position: {x: -0.03519231, y: 0, z: 0.000000048446665}
+      rotation: {x: -0.008296856, y: -0.036744565, z: -0.00028319634, w: 0.9992902}
+      scale: {x: 1.0000015, y: 1.0000006, z: 0.9999984}
+    - name: Robot_01_RDigit13
+      parentName: Robot_01_RDigit12
+      position: {x: -0.0215743, y: 0, z: -0.000000048446665}
+      rotation: {x: 0.0023458898, y: -0.011006445, z: -0.040539682, w: 0.99911463}
+      scale: {x: 0.9999983, y: 1.0000019, z: 1.0000004}
+    - name: Robot_01_RDigit31
+      parentName: Robot_01_RPalm
+      position: {x: -0.093747616, y: 0.0012104639, z: -0.007268136}
+      rotation: {x: 0.0033425363, y: -0.018969184, z: 0.07027417, w: 0.9973418}
+      scale: {x: 1.0000011, y: 0.999999, z: 0.9999993}
+    - name: Robot_01_RDigit32
+      parentName: Robot_01_RDigit31
+      position: {x: -0.018902624, y: -0.000000024223327, z: 0.0000000121116654}
+      rotation: {x: -0.0045727263, y: 0.018258015, z: 0.015014411, w: 0.99971014}
+      scale: {x: 0.9999986, y: 1.0000018, z: 1.0000001}
+    - name: Robot_01_RDigit33
+      parentName: Robot_01_RDigit32
+      position: {x: -0.024972796, y: -0.0000000121116654, z: 0.0000000121116654}
+      rotation: {x: -0.0011327304, y: -0.021115992, z: 0.094346404, w: 0.99531484}
+      scale: {x: 0.9999973, y: 1.0000021, z: 0.9999994}
+    - name: Robot_01_RDigit41
+      parentName: Robot_01_RPalm
+      position: {x: -0.088989556, y: -0.0022548768, z: 0.021997277}
+      rotation: {x: 0.11338667, y: 0.020579902, z: 0.044066314, w: 0.9923599}
+      scale: {x: 1.0000015, y: 0.9999995, z: 1.0000001}
+    - name: Robot_01_RDigit42
+      parentName: Robot_01_RDigit41
+      position: {x: -0.016427, y: 0.000000024223327, z: 0.0000000060558327}
+      rotation: {x: -0.012654106, y: -0.007368033, z: 0.03597838, w: 0.9992453}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1}
+    - name: Robot_01_RDigit43
+      parentName: Robot_01_RDigit42
+      position: {x: -0.025867512, y: 0.0000000121116654, z: 0.0000000121116654}
+      rotation: {x: 0.020689262, y: 0.02527628, z: 0.08434019, w: 0.9959015}
+      scale: {x: 1.0000011, y: 1.0000002, z: 1.000001}
+    - name: Robot_01_RDigit51
+      parentName: Robot_01_RPalm
+      position: {x: -0.07054179, y: -0.01713076, z: 0.050243}
+      rotation: {x: 0.09230643, y: 0.0089347875, z: 0.052465938, w: 0.9943073}
+      scale: {x: 1.0000012, y: 0.9999981, z: 0.9999987}
+    - name: Robot_01_RDigit52
+      parentName: Robot_01_RDigit51
+      position: {x: -0.021823764, y: 0.0000000121116654, z: -0.0000000060558327}
+      rotation: {x: -0.00040496144, y: 0.026944887, z: 0.021050246, w: 0.99941516}
+      scale: {x: 0.9999981, y: 1.0000015, z: 1.0000002}
+    - name: Robot_01_RDigit53
+      parentName: Robot_01_RDigit52
+      position: {x: -0.025900302, y: 0.0000000121116654, z: 0.0000000060558327}
+      rotation: {x: 0.019792395, y: -0.048304327, z: 0.087591276, w: 0.9947878}
+      scale: {x: 1.0000018, y: 0.99999774, z: 0.99999964}
+    - name: Robot_01_RDigit21
+      parentName: Robot_01_RPalm
+      position: {x: -0.08102821, y: -0.0028909086, z: -0.037747066}
+      rotation: {x: -0.12448874, y: -0.10106311, z: 0.030970655, w: 0.98657477}
+      scale: {x: 1.0000002, y: 0.99999964, z: 0.99999887}
+    - name: Robot_01_RDigit22
+      parentName: Robot_01_RDigit21
+      position: {x: -0.01726922, y: 0, z: 0}
+      rotation: {x: -0.010214835, y: -0.00920532, z: 0.038071696, w: 0.9991804}
+      scale: {x: 0.999998, y: 1.0000021, z: 1.0000007}
+    - name: Robot_01_RDigit23
+      parentName: Robot_01_RDigit22
+      position: {x: -0.025260763, y: 0.0000000121116654, z: 0}
+      rotation: {x: -0.004729701, y: 0.0041014436, z: 0.075659975, w: 0.997114}
+      scale: {x: 1.0000029, y: 0.9999974, z: 1.0000001}
+    - name: Robot_01_LThigh
+      parentName: Robot_01_Pelvis
+      position: {x: 0.055206418, y: 0.030633213, z: 0.097347476}
+      rotation: {x: -0.016096592, y: 0.99192685, z: -0.020291006, w: 0.12413837}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000017}
+    - name: Robot_01_LCalf
+      parentName: Robot_01_LThigh
+      position: {x: -0.20579076, y: 0.00000015896559, z: 0.000000036334978}
+      rotation: {x: -0.012560048, y: 0.08822456, z: 0.10585294, w: 0.9903807}
+      scale: {x: 1.0000011, y: 1.0000001, z: 0.9999993}
+    - name: Robot_01_LFoot
+      parentName: Robot_01_LCalf
+      position: {x: -0.3043631, y: -0.0000003815174, z: 0.00000030279162}
+      rotation: {x: -0.020051703, y: 0.031814683, z: -0.68940425, w: 0.72340006}
+      scale: {x: 1.0000013, y: 0.9999994, z: 1.0000004}
+    - name: Robot_01_LDigit11
+      parentName: Robot_01_LFoot
+      position: {x: -0.06967223, y: -0.0065502385, z: 0.00000032701482}
+      rotation: {x: 0.000002966262, y: -0.000026455145, z: -0.11155196, w: 0.99375856}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999976}
+    - name: Robot_01_RThigh
+      parentName: Robot_01_Pelvis
+      position: {x: 0.055206418, y: 0.030633213, z: -0.097347476}
+      rotation: {x: -0.016095899, y: 0.99192685, z: 0.020292174, w: -0.124138325}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000007}
+    - name: Robot_01_RCalf
+      parentName: Robot_01_RThigh
+      position: {x: -0.20579064, y: 0.00000013625622, z: -0.00000006055832}
+      rotation: {x: 0.012582811, y: -0.088500746, z: 0.105960354, w: 0.9903443}
+      scale: {x: 0.9999989, y: 0.9999998, z: 1.0000013}
+    - name: Robot_01_RFoot
+      parentName: Robot_01_RCalf
+      position: {x: -0.30436286, y: 0.00011429172, z: 0.000094107636}
+      rotation: {x: 0.020462116, y: -0.030981965, z: -0.6895323, w: 0.7233026}
+      scale: {x: 1.0000001, y: 1.0000011, z: 0.9999999}
+    - name: Robot_01_RDigit11
+      parentName: Robot_01_RFoot
+      position: {x: -0.06978673, y: -0.006552545, z: 0.000031054293}
+      rotation: {x: 0.00009481514, y: -0.0008447467, z: -0.11147081, w: 0.9937674}
+      scale: {x: 0.99999964, y: 1.0000002, z: 0.99999976}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0.064
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
